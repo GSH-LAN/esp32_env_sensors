@@ -4,7 +4,7 @@ This PCB is a USB type C driven ESP32 board with two sensors (BME280, MH-Z19B).
 It's designed to be deployed during our LAN parties to record and send environmental data like temperature, humidity and CO₂-levels to our influx db.  
 So that we are able to build fancy Grafana boards on top of it.
 
-The board design is based on the official ***Espressive ESP32-DevKitC V4*** schematics and @TobleMiner 's [USB type C implementation of the DevKit][tobleminer_devkit].
+The board design is based on the official *Espressive ESP32-DevKitC V4* schematics and [@TobleMiner's][tobleminer] [USB type C implementation of the DevKit][tobleminer_devkit].
 
 ## Table of contents
 
@@ -69,6 +69,7 @@ Assuming you are using JLCPCB SMT assembly you will need to populate just the fo
 
 
 
+[tobleminer]: https://github.com/TobleMiner
 [tobleminer_devkit]: https://github.com/TobleMiner/ESP32-Devkit-Type-C
 [bme280_data_sheet]: https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280-DS002.pdf
 [wh-z19b_data_sheet]: https://www.winsen-sensor.com/d/files/MH-Z19B.pdf
