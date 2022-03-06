@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Icon")(type "Legacy")(uri "${KIPRJMOD}/lib/symbols/Icon.lib")(options "")(descr ""))
+  (lib (name "Power_Management_Monolithic")(type "Legacy")(uri "${KIPRJMOD}/lib/symbols/Power_Management_Monolithic.lib")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Antenna_IFA")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/Antenna_IFA.pretty")(options "")(descr ""))
+  (lib (name "Package_ESP32")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/Package_ESP32.pretty")(options "")(descr ""))
+  (lib (name "Signs")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/Signs.pretty")(options "")(descr ""))
+  (lib (name "ToolingHole")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/ToolingHole.pretty")(options "")(descr ""))
+)
