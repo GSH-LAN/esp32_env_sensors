@@ -1,5 +1,7 @@
 # ESP32 environmental sensors board
 
+<font size='6m' color='red'>**THIS PCB IS STILL IN ACTIVE DEVELOPMENT -- DO NOT USE**</font>
+
 This PCB is a USB type C driven ESP32 board with two sensors (BME280, MH-Z19B).  
 It's designed to be deployed during our LAN parties to record and send environmental data like temperature, humidity and CO₂-levels to our influx db.  
 So that we are able to build fancy Grafana boards on top of it.
