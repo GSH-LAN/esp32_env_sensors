@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "GSH ESP32 environment sensor")
+    (title "GSH ESP32 environment sensors")
     (date "2022-02-24")
     (rev "A")
     (company "GSH-LAN e.V.")
