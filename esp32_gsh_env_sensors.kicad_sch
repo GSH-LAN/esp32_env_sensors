@@ -3711,7 +3711,7 @@
     (property "Value" "MH-Z19B" (id 1) (at 141.7194 163.83 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "sensor_Carbon_dioxide:mh-z19b" (id 2) (at 139.7 189.23 0)
+    (property "Footprint" "mh-z19b:Winsen_MH-Z19B" (id 2) (at 139.7 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.winsen-sensor.com/d/files/MH-Z19B.pdf" (id 3) (at 138.43 179.07 0)
@@ -4096,7 +4096,7 @@
     (property "Value" "LED" (id 1) (at 143.3068 121.3358 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "LED_SMD:LED_0603_1608Metric_Castellated" (id 2) (at 140.335 120.015 0)
+    (property "Footprint" "LED_SMD:LED_0603_1608Metric" (id 2) (at 140.335 120.015 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 140.335 120.015 0)
@@ -5054,7 +5054,7 @@
       (reference "D2") (unit 1) (value "B5819W") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/7a78444a-9bdf-4ec4-8b89-d938f2327fb9"
-      (reference "D3") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric_Castellated")
+      (reference "D3") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/389a456e-233e-44fa-b748-df37a931fcce"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "ToolingHole:ToolingHole_JLCSMT")
@@ -5150,7 +5150,7 @@
       (reference "U3") (unit 1) (value "CH340G") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/48e524c1-95e4-45a2-a85b-edc3dddcf78f"
-      (reference "U4") (unit 1) (value "MH-Z19B") (footprint "sensor_Carbon_dioxide:mh-z19b")
+      (reference "U4") (unit 1) (value "MH-Z19B") (footprint "mh-z19b:Winsen_MH-Z19B")
     )
     (path "/19e32940-9c09-4bdc-94e1-dfe7f5bac49c"
       (reference "U5") (unit 1) (value "ESP32-WROOM-32E") (footprint "Espressif:ESP32-WROOM-32E")
