@@ -1,1 +1,6 @@
 esp32_gsh_env_sensors-backups
+fp-info-cache
+*.log
+_autosave-*
+*-rescue.dcm
+*.bak
