@@ -15,6 +15,7 @@ The board design is based on the [official *Espressive ESP32-DevKitC V4* schemat
 - [Sensors](#sensors)
   - [Bosh BME280](#bosh-bme280)
   - [Winsen MH-Z19B](#winsen-mh-z19b)
+    - [Programming & Information](#programming--information)
 - [Features](#features)
 - [Assembly -- TBD / WIP](#assembly----tbd--wip)
 
@@ -42,6 +43,14 @@ superior circuit design
 
 Source: MH-Z19B data sheet  
 [Data sheet][wh-z19b_data_sheet]
+
+### Programming & Information
+
+  * [CO2-Sensor MH-Z19B - Unsinnsbasis][unsinnsbasis_mh-z19b]
+    * [Archived version][unsinnsbasis_mh-z19b_archive]
+  * [MH-Z14 und MH-Z19 CO2 Sensoren • Wolles Elektronikkiste][wolles_elektronikkiste_mh-z19]
+    * [Archived version][wolles_elektronikkiste_mh-z19_archive]
+  * [WifWaf/MH-Z19 - Arduino/ESP32 library for MH-Z19 & MH-Z19B sensors][wiwaf_mh-z19_lib]
 
 
 # Features
@@ -75,6 +84,11 @@ Assuming you are using JLCPCB SMT assembly you will need to populate just the fo
 [tobleminer_devkit]: https://github.com/TobleMiner/ESP32-Devkit-Type-C
 [bme280_data_sheet]: https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280-DS002.pdf
 [wh-z19b_data_sheet]: https://www.winsen-sensor.com/d/files/MH-Z19B.pdf
+[unsinnsbasis_mh-z19b]: https://unsinnsbasis.de/co2-sensor-mhz19b/
+[unsinnsbasis_mh-z19b_archive]: https://web.archive.org/web/20220307150827/https://unsinnsbasis.de/co2-sensor-mhz19b/
+[wolles_elektronikkiste_mh-z19]: https://wolles-elektronikkiste.de/mh-z14-und-mh-z19-co2-sensoren
+[wolles_elektronikkiste_mh-z19_archive]: https://web.archive.org/web/20220307131210/https://wolles-elektronikkiste.de/mh-z14-und-mh-z19-co2-sensoren
+[wiwaf_mh-z19_lib]: https://github.com/WifWaf/MH-Z19
 [ch340g_data_sheet]: http://www.wch-ic.com/downloads/file/79.html?time=2022-03-05%2004:29:24&code=w22QT3jQR4FM0SrIxIGGBQY0Q6dh2u690pWEflgr
 [bom]: https://gsh-lan.github.io/esp32_env_sensors/ibom.html
 
